@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/yofio/study-typescript/issues"
   },
-  "homepage": "https://github.com/yofio/study-typescript#readme"
+  "homepage": "https://github.com/yofio/study-typescript#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
